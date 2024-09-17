@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;  
+  padding: 0;
+}
+canvas {
+    display: block;
+}
+body{
+    background-color: var(cor-de-fundo);
+   color: var(--branco-principal); 
+}
+
+ {
+
+}
